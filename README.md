@@ -1,7 +1,7 @@
 # Servidores-DNS
-Práctica sobre la configuración de los servidores DNS en Linux Ubuntu.
+Prácticas sobre la configuración de los servidores DNS en Linux Ubuntu.
 
-En ella, los objetivos son : 
+Contiene dos documetos en formato .docx. En tales prácticas, los objetivos son : 
 
 •	Analizar la planificación de un servidor en DNS
 •	Planificar la instalación de un servidor DNS.
